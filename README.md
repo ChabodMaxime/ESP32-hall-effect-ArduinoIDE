@@ -3,7 +3,6 @@
 Equipment
 -------------------------
 
-- Arduino Uno
 - USB cable
 - ESP32 (Amazon choice)
 - Magnet
